@@ -24,3 +24,8 @@ Model 1: Two hidden layers
 Model 2: Three hidden layers 
 Model 3: 5 hidden layers 
 
+###Results
+The results of the models are evaluated based on the accuracy of the predictions on the test data. The accuracy of each model is summarized in a tabular report.
+
+##A detailed report is generated at the end of the R Markdown file, providing insights into the performance of each model configuration.
+###conclusion
